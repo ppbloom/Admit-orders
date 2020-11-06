@@ -9,3 +9,7 @@ Condition: guarded
 Vitals: T, HR, BP
 
 Activity: limited
+
+Allergies:
+
+Nursing:
