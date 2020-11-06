@@ -13,3 +13,7 @@ Activity: limited
 Allergies:
 
 Nursing:
+
+Diet: NPO
+
+I/O: Monitor Q 4 hours
