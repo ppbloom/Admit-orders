@@ -6,7 +6,7 @@ Diagnosis: GI bleeding
 
 Condition: guarded
 
-Vitals: T, HR, BP
+Vitals: T, HR, BP Q 4 hours
 
 Activity: limited
 
